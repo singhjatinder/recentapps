@@ -1,6 +1,8 @@
 
 <template>
+<!--    Grid Container-->
     <div class="container">
+<!--        Time Section-->
         <div class="time">
             <h1>Current Time</h1>
             <h2>{{time}}</h2>
@@ -11,6 +13,7 @@
         <div class="info">
             <h1>Weather Details:</h1>
             <h2>Current Temp: {{temp}}&deg;F</h2>
+            <img :src="icon" alt="weatherIcon">
             <span>**Refreshes every min once loaded**</span>
             <ul>
                 <li>Min Temp: {{minTemp}}&deg;F</li>
@@ -89,7 +92,7 @@
 
                     //Other details about weather
                     this.desc = response.data.weather[0].description;
-                    this.icon = response.data.weather[0].icon;
+                    this.icon = "http://openweathermap.org/img/wn/"+ response.data.weather[0].icon+"@2x.png";
 
                     // this.posts = response.data;
                     console.log(response);
@@ -103,7 +106,7 @@
     .container{
         display: grid;
         grid-template-columns: 400px auto 400px;
-        grid-template-rows: 300px 300px;
+        grid-template-rows: 400px 400px;
         margin: 20px;
     }
     .time{
@@ -131,5 +134,12 @@
         padding: 0;
         margin: 10px 0;
         text-align: center;
+    }
+
+    h2 img{
+        padding: 0;
+        margin: 0;
+        width: 100px;
+        height: 100px;
     }
 </style>
