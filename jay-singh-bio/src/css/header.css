@@ -10,6 +10,7 @@ body{
     background-repeat: no-repeat;
     /*    image from https://unsplash.com/photos/t74oFPTXzqs ; its free*/
 }
+
 header {
     padding-top: 10px;
     position: sticky;
@@ -22,6 +23,7 @@ nav{
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+    align-items: center;
 }
 
 nav a{
