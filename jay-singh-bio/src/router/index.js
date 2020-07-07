@@ -49,9 +49,9 @@ const routes = [
     component: () => import('../views/ContactMe.vue')
   },
   {
-    path: '/Test',
-    name: 'Test',
-    component: () => import('../views/Test.vue')
+    path: '/TimeAndWeather',
+    name: 'TimeAndWeather',
+    component: () => import('../views/TimeAndWeather.vue')
   }
 ]
 

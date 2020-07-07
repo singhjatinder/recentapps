@@ -10,7 +10,7 @@
         <router-link to="/Resume">Resume</router-link>
         <router-link to="/Photography">Photography</router-link>
         <router-link to="/ContactMe">Contact Me</router-link>
-        <router-link to="/Test">Test Page</router-link>
+        <router-link to="/TimeAndWeather">Time & Weather</router-link>
       </nav>
     </header>
 

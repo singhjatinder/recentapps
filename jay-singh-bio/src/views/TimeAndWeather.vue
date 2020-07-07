@@ -11,7 +11,7 @@
 
         <!--        Weather Section-->
         <div class="info">
-            <h1>Weather Details:</h1>
+            <h1>Weather</h1>
             <h2>Current Temp: {{temp}}&deg;F</h2>
             <img :src="icon" alt="weatherIcon">
             <span>**Refreshes every min once loaded**</span>
@@ -106,7 +106,7 @@
     .container{
         display: grid;
         grid-template-columns: 400px auto 400px;
-        grid-template-rows: 400px 400px;
+        grid-template-rows: 200px 400px 200px;
         margin: 20px;
     }
     .time{

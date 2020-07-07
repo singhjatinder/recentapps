@@ -13,7 +13,7 @@
             <details open>
                 <summary class="subheading">Boston University, Boston, M.A<span>Expected December 2020</span></summary>
                 <p>Masters of Science in Computer Information Systems with Concentration in Web App Development</p>
-                <p>GPA: 3.7/4.0</p>
+                <p>GPA: 3.8/4.0</p>
             </details>
         </details>
 
