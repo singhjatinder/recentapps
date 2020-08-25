@@ -22,7 +22,9 @@
                 <li>Description: {{desc}}</li>
             </ul>
         </div>
-        <!--        <p>{{posts}}</p>-->
+      <section v-for="row in result" class="row" v-bind:key="row">
+          <h2>{{row.courseID}} - {{row.courseName}}</h2>
+      </section>
     </div>
 </template>
 
@@ -34,6 +36,7 @@
             return {
                 //Weather Details
                 dataURL: process.env.VUE_APP_WEATHER_URL,
+                coursesURL: 'https://jaysingh.info/database/rest.php?format=json&action=courses',
                 temp: '',
                 minTemp: '',
                 maxTemp: '',
@@ -42,6 +45,7 @@
                 icon:'',
                 day:'',
                 posts: [],
+                result: '',
                 // time
                 time: '',
             }
@@ -50,6 +54,7 @@
             // Fetch Data
             this.fetchData();
             this.updateTime();
+            this.fetchCourses();
             setInterval(this.fetchData, 60000);
             setInterval(this.updateTime, 1000);
         },
@@ -96,8 +101,16 @@
 
                     // this.posts = response.data;
                     console.log(response);
-                })
-            }
+                });
+            },
+            fetchCourses: function() {
+            axios.get(this.coursesURL).then(response => {
+              this.result = response.data;
+
+              // this.posts = response.data;
+              console.log(response);
+            });
+          }
         }
     }
 </script>

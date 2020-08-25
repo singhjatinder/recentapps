@@ -63,7 +63,7 @@
                 correctEmailFormat: /^([a-zA-Z0-9_\-\\.]+)@([a-zA-Z0-9_\-\\.]+)\.([a-zA-Z]{2,5})$/,
                 heading:'Contact ME',
                 subHeading: 'Send an Email',
-                emailURL: 'http://jsingh999.000webhostapp.com/sendemail.php',
+                emailURL: 'https://jaysingh.info/sendemail.php',
                 contactImg: {link: require('../assets/images/jaysingh_contact.jpg'),alternate: 'Jay Singh Friends - Contact'},
                 footer: '2020 Jay Singh',
                 print: 'Printed from jaysingh.net'

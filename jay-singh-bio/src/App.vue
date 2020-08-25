@@ -3,7 +3,6 @@
     <header class="row">
       <nav>
         <router-link to="/">Home</router-link>
-        <router-link to="/about">About</router-link>
         <router-link to="/EarlyLife">Early Life</router-link>
         <router-link to="/Education">Education</router-link>
         <router-link to="/Careers">Careers</router-link>
