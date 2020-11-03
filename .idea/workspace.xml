@@ -20,14 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a0fcd89-a61f-4db6-93c3-808a9cb24c74" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jay-singh-bio/.env" beforeDir="false" afterPath="$PROJECT_DIR$/jay-singh-bio/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jay-singh-bio/Procfile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/jay-singh-bio/api/Procfile" beforeDir="false" />
@@ -1039,7 +1032,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/jsingh-api" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1eHoHx7RuM61ZVQCJfAaWQUjeWt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -1087,7 +1080,7 @@
       <workItem from="1600007241989" duration="174000" />
       <workItem from="1600007558051" duration="603000" />
       <workItem from="1604362165653" duration="2623000" />
-      <workItem from="1604368218726" duration="1695000" />
+      <workItem from="1604368218726" duration="2321000" />
     </task>
     <servers />
   </component>
