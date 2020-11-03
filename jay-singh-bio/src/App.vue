@@ -6,7 +6,6 @@
         <router-link to="/EarlyLife">Early Life</router-link>
         <router-link to="/Education">Education</router-link>
         <router-link to="/Careers">Careers</router-link>
-        <router-link to="/Resume">Resume</router-link>
         <router-link to="/Photography">Photography</router-link>
         <router-link to="/ContactMe">Contact Me</router-link>
         <router-link to="/TimeAndWeather">Time & Weather</router-link>
@@ -14,10 +13,6 @@
     </header>
 
     <router-view/>
-    <footer>
-      &copy; 2020 Jay Singh
-      <p class="printnotice">Printed from jaysingh.net</p>
-    </footer>
   </div>
 </template>
 
