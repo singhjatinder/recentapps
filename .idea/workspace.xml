@@ -20,51 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a0fcd89-a61f-4db6-93c3-808a9cb24c74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/game-checkers/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/dist/checkers/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/dist/checkers/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/dist/checkers/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/dist/checkers/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/dist/checkers/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/dist/checkers/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/dist/checkers/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/dist/checkers/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/dist/checkers/main.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/dist/checkers/polyfills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/dist/checkers/polyfills.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/dist/checkers/runtime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/dist/checkers/runtime.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/dist/checkers/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/dist/checkers/styles.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/dist/checkers/vendor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/dist/checkers/vendor.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-checkers/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/checkers" beforeDir="false" afterPath="$PROJECT_DIR$/checkers" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jay-singh-bio/.env" beforeDir="false" afterPath="$PROJECT_DIR$/jay-singh-bio/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jay-singh-bio/Procfile" beforeDir="false" />
@@ -1140,7 +1096,7 @@
       <workItem from="1600007241989" duration="174000" />
       <workItem from="1600007558051" duration="603000" />
       <workItem from="1604362165653" duration="2623000" />
-      <workItem from="1604368218726" duration="4629000" />
+      <workItem from="1604368218726" duration="5143000" />
     </task>
     <servers />
   </component>
