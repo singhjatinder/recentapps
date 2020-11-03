@@ -1047,19 +1047,33 @@
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Learningproject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jay-api-public" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\singh\Desktop\test\jsingh-api" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\singh\Desktop\test\jsingh-api\public" />
       <recent name="C:\Users\singh\Desktop\test\jay-singh-bio\database" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\singh\Desktop\test\jay-api-public" />
+      <recent name="C:\Users\singh\Desktop\test\jsingh-api" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -1080,7 +1094,7 @@
       <workItem from="1600007241989" duration="174000" />
       <workItem from="1600007558051" duration="603000" />
       <workItem from="1604362165653" duration="2623000" />
-      <workItem from="1604368218726" duration="2321000" />
+      <workItem from="1604368218726" duration="3104000" />
     </task>
     <servers />
   </component>
